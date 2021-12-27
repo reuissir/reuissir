@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @reuissir
+- 👀 I’m interested in ... automatic driving
+- 🌱 I’m currently learning ... deep learning / artificial intelligence
+- 💞️ I’m looking to collaborate on ... anything related
